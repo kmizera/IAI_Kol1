@@ -12,3 +12,12 @@ body {
     height: 20px;
     background-color: blue;
 }
+.button:zmien
+{
+    background:red;
+}
+
+
+.button {
+    background-color: green;
+}
